@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "nlp4u"
   gem.homepage = "http://github.com/dorren/nlp4u"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{nlp processing library written in ruby.}
+  gem.description = %Q{nlp processing library written in ruby. Comes with Naive Bayes classifier, tokenizer, etc.}
   gem.email = "dorrenchen@gmail.com"
   gem.authors = ["Dorren Chen"]
   # dependencies defined in Gemfile
